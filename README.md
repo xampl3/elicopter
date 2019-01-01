@@ -40,14 +40,15 @@ aditional notes:
 
 ---
 ## Aditional parts
-some aditional parts used in this build (**fat is necessarry**)  
+some aditional parts used in this build (**fat is necessarry**) 
+ 
 |Part                                         |amount and aditional notes|    
-| ------------------------------------------- |:------------------------:|   
-**any tubing(favoured carbon or thin pvc)**    |2x30cm (2x 16Ø/2x 8Ø(mm))  
-**m2 screws and nuts**                         |1 one package  
-**m3 screws and nuts**                         |1  one package  
-m4 screws and nuts                             |1 don´t know where though  
-m5 screws and nuts                             |1 don´t know where though  
+| ----- |:-----:|   
+**any tubing(favoured carbon or thin pvc)**     |2x30cm (2x 16Ø/2x 8Ø(mm))  
+**m2 screws and nuts**                          |1 one package  
+**m3 screws and nuts**                          |1  one package  
+m4 screws and nuts                              |1 don´t know where though  
+m5 screws and nuts                              |1 don´t know where though  
 
 ---
 ## Software
