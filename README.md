@@ -15,7 +15,7 @@ just take those which are recommended or which work the best for you
 (3d-printing)  
 |Part                                     |amount| aditional notes |  
 | --------------------------------------- |:----:| ----------------  
-**battery_fix_v2.stl**  [link](https://github.com/xampl3/elicopter/blob/master/images/3e73c1a0894ff7fc58e76f29ecacea12_preview_featured.jpg)              |[2]     | **for all:**
+**battery_fix_v2.stl** [link](https://github.com/xampl3/elicopter/blob/master/images/3e73c1a0894ff7fc58e76f29ecacea12_preview_featured.jpg)              |[2]     | **for all:**
 imu_bumper_v4.stl  [link](https://github.com/xampl3/elicopter/blob/master/images/a0706a313553bcc6fc38476d0979894d_preview_featured.jpg)                   |[1]     | for max stability 
 led_fix_v4.stl  [link](https://github.com/xampl3/elicopter/blob/master/images/d567b0b4d3bc9d1726b59b4397ac84d5_preview_featured.jpg)                      |[1]     | print with 100% 
 motor_base_support_v13.stl  [link](https://github.com/xampl3/elicopter/blob/master/images/f328008c4dce484450dfed22e64163b5_preview_featured.jpg)          |[4]     | infill 
