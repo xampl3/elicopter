@@ -44,7 +44,7 @@ some aditional parts used in this build (**fat is necessarry**)
 
 |Part                                         |amount and aditional notes|    
 | ----- |:-----:|   
-**any tubing(favoured carbon or thin pvc)**     |2x30cm (2x 16Ø/2x 8Ø(mm))  
+**any tubing(favoured carbon or thin pvc)**     |2x20cm (2x 16Ø/2x 8Ø(mm))  
 **m2 screws and nuts**                          |one package  
 **m3 screws and nuts**                          |one package  
 m4 screws and nuts                              |one package don´t know where though  
